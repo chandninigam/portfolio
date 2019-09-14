@@ -2,3 +2,31 @@
     height: 30px;
     width: 30px;
 }
+h1{
+    font-family: Comic Sans MS;
+    padding-left:20px;
+    color:#FF0000;
+}
+hr{
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double #d9d9d9;
+    color: #333;
+    text-align: center;
+    color:black;
+}
+body{
+    position:relative;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+#widget-block 
+{ 
+    margin-top:100px;
+}
+.carousel slide{
+    height: 100px;
+    width: 200px
+}
